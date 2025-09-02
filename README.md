@@ -1,4 +1,4 @@
-# 👋 ¡Hola mundo, soy Jonnathan Bareño Ñustes!  
+# 👋 ¡Hola mundo, soy Jonnathan Eduardo Bareño Ñustes!  
 
 🎓 **Licenciado en Electrónica**  
 🤖 Apasionado por la **robótica**, el **fútbol**, la **programación** y la **ciberseguridad**.  
