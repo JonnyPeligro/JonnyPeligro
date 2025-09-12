@@ -37,5 +37,9 @@
 👾 [GitHub](https://github.com/JonnyPeligro)  
 
 ---
+### :zap: Los trabajos más recientes.
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ✨ *“El código perfecto no existe, pero la creatividad sí.”* ✨  
